@@ -9,7 +9,9 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "serve": "node src/server.js"
+    "serve": "node src/server.js",
+    "release:dry": "npx semantic-release --dry-run",
+    "release": "npx semantic-release"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
