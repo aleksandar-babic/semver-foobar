@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Releases
+release/*
+
+# Jetbrains IDE
+.idea
+
+# Token export
+token.sh
