@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/aleksandar-babic/semver-foobar/compare/v1.1.0...v1.2.0) (2021-07-22)
+
+
+### Features
+
+* **endpoint:** Updated the endpoint content ([#1](https://github.com/aleksandar-babic/semver-foobar/issues/1)) ([5291eb0](https://github.com/aleksandar-babic/semver-foobar/commit/5291eb09b20eb1c350f5268ad6e57b58d1587a74))
+
 # [1.1.0](https://github.com/aleksandar-babic/semver-foobar/compare/v1.0.0...v1.1.0) (2021-07-22)
 
 
