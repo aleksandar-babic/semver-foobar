@@ -11,7 +11,8 @@
   "scripts": {
     "serve": "node src/server.js",
     "release:dry": "npx semantic-release --dry-run",
-    "release": "npx semantic-release"
+    "release": "npx semantic-release",
+    "commit": "npx commit"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^12.1.4",
