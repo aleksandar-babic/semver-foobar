@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/aleksandar-babic/semver-foobar/compare/v1.3.0...v1.4.0) (2021-07-23)
+
+
+### Features
+
+* **ping:** initial implementation ([#2](https://github.com/aleksandar-babic/semver-foobar/issues/2)) ([1513a35](https://github.com/aleksandar-babic/semver-foobar/commit/1513a35c21e696cece8932471781396e4dba49aa))
+
 ## [1.3.0](https://github.com/aleksandar-babic/semver-foobar/compare/v1.2.0...v1.3.0) (2021-07-23)
 
 
