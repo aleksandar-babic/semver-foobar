@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/aleksandar-babic/semver-foobar/compare/v1.2.0...v1.3.0) (2021-07-23)
+
+
+### Features
+
+* **apiendpoint:** Added really important hello in the endpoint ([4fdce44](https://github.com/aleksandar-babic/semver-foobar/commit/4fdce4429356c695ce35b97ec03d364b2450b0bf))
+
 ## [1.2.0](https://github.com/aleksandar-babic/semver-foobar/compare/v1.1.0...v1.2.0) (2021-07-22)
 
 
