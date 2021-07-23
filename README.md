@@ -1,5 +1,6 @@
 # Semver foobar
-
+[![Release](https://github.com/aleksandar-babic/semver-foobar/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/aleksandar-babic/semver-foobar/actions/workflows/release.yml)
+  
 The purpose of this repo is to showcase how [semver](https://semver.org) specification can be implemented for
 convenient, every day usage.
 
